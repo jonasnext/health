@@ -2,8 +2,6 @@
 
 # ![health](img/health.svg)
 
-# ❤️
-
 ## 🏊 🚴 🏃
 
 ### apple health | apple fitness | apple watch
